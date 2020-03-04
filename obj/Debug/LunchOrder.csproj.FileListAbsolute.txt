@@ -1,0 +1,9 @@
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.pdb
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csprojAssemblyReference.cache
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Form1.resources
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.cache
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+D:\C# 494\Assn #10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
